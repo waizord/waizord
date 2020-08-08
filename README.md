@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Alamofire and SDWebImage frameworks, base UIKit. Good bye!
 
 <!--
 **waizord/waizord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
