@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- ⚡ Fun fact: August 8 - World Cat Day! Delight them with delicious food! 😄
-....../|.......|\ 
-`...__\\.......//__' 
-......||......|| 
-....\__`\.....|'__/ 
+- ⚡ Fun fact: August 8 - World Cat Day! Delight them with delicious food! 😄;
+....../|.......|\ ;
+`...__\\.......//__' ;
+......||......|| ;
+....\__`\.....|'__/ ;
 .....`_\\...//_' 
 ....._.,:---;,._ 
 ......\_:.....:_/ 
