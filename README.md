@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning base OOP and practic.
 
-- ⚡ Fun fact: August 8 - World Cat Day! Delight them with delicious food! 😄
+- ⚡ Fun fact: August 8 - World Cat Day! Delight them with delicious food!
 <!--
 **waizord/waizord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
