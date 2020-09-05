@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning base OOP and practic.
 
+- 🌱 I’m currently learning multithreading and arc\mrc.
+
 - 😄 Fun fact: August 8 - World Cat Day! Delight them with delicious food!
 <!--
 
