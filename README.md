@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning multithreading and arc\mrc.
 
-- 😄 Fun fact: August 8 - World Cat Day! Delight them with delicious food!
+- 😄 Fun fact: August 8 - World Cat Day! Delight them with delicious food! It is fun? ot yeah!
 <!--
 
 Here are some ideas to get you started:
