@@ -6,7 +6,7 @@
 
 - 😄 Fun fact: August 8 - World Cat Day! Delight them with delicious food!
 
-It is fun? ot yeah!
+- It is fun? ot yeah!
 <!--
 
 Here are some ideas to get you started:
