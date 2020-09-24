@@ -8,8 +8,6 @@
 
 - Studying SOLID is not easy!
 
-- At the moment I am additionally going through an internship.
-
 ### It is fun? Oh yeah!
 <!--
 
