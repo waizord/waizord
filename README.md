@@ -6,8 +6,6 @@
 
 - 😄 Fun fact: August 8 - World Cat Day! Delight them with delicious food!
 
-- Studying SOLID is not easy!
-
 ### It is fun? Oh yeah!
 <!--
 
