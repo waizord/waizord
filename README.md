@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning multithreading and arc\mrc.
 
+- 🌱 I’m currently learning CoreData and Firebase.
+
 - 😄 Fun fact: August 8 - World Cat Day! Delight them with delicious food!
 
 ### It is fun? Oh yeah!
