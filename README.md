@@ -1,8 +1,20 @@
-### Hi there 👋👋👋👋👋👋👋👋👋👋👋👋
+### Hi there 👋
 
 - 🌱 I’m currently learning base OOP and practic.
 
-- 🌱 I’m currently learning multithreading and arc\mrc.
+- Swift, XCode
+
+- UIKit
+
+- Autolayout, Anchors (NSLayoutConstraint)
+
+- URLSession, JSON, Codable
+
+- Core Data, Firebase
+
+- Protocols, Extensions, Delegates
+
+- MVC, MVP
 
 - 🌱 I’m currently learning CoreData and Firebase.
 
