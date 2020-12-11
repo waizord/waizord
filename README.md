@@ -8,7 +8,7 @@
 
 - Autolayout, Anchors (NSLayoutConstraint)
 
-- URLSession, JSON, Codable
+- URLSession, JSON
 
 - Core Data
 
