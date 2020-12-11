@@ -10,13 +10,13 @@
 
 - URLSession, JSON, Codable
 
-- Core Data, Firebase
+- Core Data
 
 - Protocols, Extensions, Delegates
 
-- MVC, MVP
-
 - 🌱 I’m currently learning CoreData and Firebase.
+
+- I want to learn English and I do it.
 
 - 😄 Fun fact: August 8 - World Cat Day! Delight them with delicious food!
 
