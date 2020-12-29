@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning base OOP and practic.
+- 🌱 I learn base OOP and practic. I want to learn API service
 
 - Swift, XCode
 
