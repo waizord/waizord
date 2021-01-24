@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I learn base OOP and practic. I want to learn API service
+I learn base OOP and practic. I want to learn API service
+
+I have knowledge:
 
 - Swift, XCode
 
@@ -14,9 +16,9 @@
 
 - Protocols, Extensions, Delegates
 
-- I want to learn English and I do it.
+I want to learn English and I do it.
 
-- 😄 Fun fact: August 8 - World Cat Day! Delight them with delicious food!
+😄 Fun fact: August 8 - World Cat Day! Delight them with delicious food!
 
 ### It is fun? Oh yeah!
 <!--
