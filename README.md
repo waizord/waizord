@@ -20,6 +20,8 @@ I want to learn English and I do it.
 
 😄 Fun fact: August 8 - World Cat Day! Delight them with delicious food!
 
+My application in AppStore: https://apps.apple.com/us/app/freelunch-обеды-в-ссузах/id1560859277
+
 ### It is fun? Oh yeah!
 <!--
 
