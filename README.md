@@ -4,11 +4,11 @@ I learn base OOP and practic. I want to learn API service
 
 I have knowledge:
 
-- Swift, XCode
+- Swift, Objective-C, XCode
 
 - UIKit
 
-- Autolayout, Anchors (NSLayoutConstraint)
+- Autolayout, (NSLayoutConstraint)
 
 - URLSession, JSON
 
