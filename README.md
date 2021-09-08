@@ -1,19 +1,18 @@
-### Hi there 👋
+### Hi there 👋 For review to me you can to see my projects: Task7, Task8, Task9.
 
 I learn base OOP and practic. I want to learn API service
 
 I have knowledge:
 
-- Swift, Objective-C, XCode
-
-- UIKit
-
-- Autolayout, (NSLayoutConstraint)
-
-- URLSession, JSON
-
-- Core Data
-
+- Swift, Objective-C 
+- UIKit, Foundation
+- Autolayout
+- CALayer, CAAnimation, UIBezierPath
+- URLSessions, JSON, Codable
+- Core Data, UserDefaults
+- Memory management, ARC
+- MVC, MVP
+- Git, Figma
 - Protocols, Extensions, Delegates
 
 I want to learn English and I do it.
