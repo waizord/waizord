@@ -9,6 +9,7 @@ I have knowledge:
 - Autolayout
 - CALayer, CAAnimation, UIBezierPath
 - URLSessions, JSON, Codable
+- CLLocation
 - Core Data, UserDefaults
 - Memory management, ARC
 - MVC, MVP
