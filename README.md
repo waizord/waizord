@@ -1,4 +1,4 @@
-### Hi there 👋 For review to me you can to see my projects: Wheather, Task7, RSSchool_T8, Task9.
+### Hi there 👋 For review to me you can to see my projects: Weather, Task7, RSSchool_T8, Task9.
 
 I learn base OOP and practic. I want to learn API service
 
