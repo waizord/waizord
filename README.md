@@ -6,15 +6,10 @@ I have knowledge:
 
 - Swift, Objective-C 
 - UIKit, Foundation
-- Autolayout
-- CALayer, CAAnimation, UIBezierPath
 - URLSessions, JSON, Codable
-- CLLocation
 - Core Data, UserDefaults
 - Memory management, ARC
-- MVC, MVP
 - Git, Figma
-- Protocols, Extensions, Delegates
 
 I want to learn English and I do it.
 
